@@ -1,0 +1,6 @@
+{
+  "name": "AI Meeting Action Agent",
+  "description": "MindSync remembers what happened before and understands what changed: cross-meeting memory, missed commitment detection, decision evolution, and AI drafts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
